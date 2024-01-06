@@ -11,7 +11,7 @@
     </parent>
 
     <groupId> com.mjcschool </groupId>
-    <artifactId>StringUtils</artifactId>
+    <artifactId>utils</artifactId>
     <version> version = '1.3.5</version>
 
     <dependencies>
